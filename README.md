@@ -1,2 +1,2 @@
-# Cutie-galery-s
-galery pastel
+# -galery-s
+galery 
